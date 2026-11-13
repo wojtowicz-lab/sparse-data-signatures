@@ -24,7 +24,7 @@ Utilities submodule contains functions that help the user to process and summari
     * data matrix reconstructed from sampling posterior predictive distribution.
 The utilities submodule also contains functions for calculating the log posterior probability of the model, finding the chain with the best log posterior probability, cosine similarity between matrices utilizing scipy library, and plotting the signature. I also included a function that allows the user to create a list of loglikelihoods of the model across different numbers of clusters to be used in the elbow method.
 
-# libraries used
+# Libraries used
 pandas,
 numpy,
 scipy,
@@ -34,3 +34,6 @@ scikit learn,
 pymc,
 pytensor,
 arviz
+
+# Funding
+The project was financed by the Polish National Agency for Academic Exchange within the Polish Returns Programme (PPN/PPO/2020/1/00028).
